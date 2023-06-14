@@ -13,8 +13,8 @@
 <body class="container">
 <h1>Inicio</h1>
 <ul>
-	<li><a href="Contacto.jsp">Contacto</a></li>
-	<li><a href="CrearCapacitacion.jsp">Crear Capacitación</a></li>
+	<li><a href="Servlet2">Contacto</a></li>
+	<li><a href="Servlet3">Crear Capacitación</a></li>
 </ul>
 </body>
 </html>

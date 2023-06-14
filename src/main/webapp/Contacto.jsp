@@ -20,6 +20,10 @@
     <label for="nom" class="form-label">Nombre:</label>
     <input type="text" class="form-control" id="nom" placeholder="Nombre" name="nombre">
   </div>
+  <div class="mb-3">
+    <label for="men" class="form-label">Mensaje:</label>
+    <textarea rows="20" cols="250" id="men" placeholder="Mensaje" name="mensaje"></textarea>
+  </div>
   <button type="submit" class="btn btn-primary">Enviar</button>
 </form>
 </body>
